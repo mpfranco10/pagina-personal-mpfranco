@@ -31,3 +31,9 @@ body{
   width: 800px;
 
 }
+
+#foto{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/de/Windows_live_square.JPG");
+  width: 100%;
+  height: 300px;
+}
