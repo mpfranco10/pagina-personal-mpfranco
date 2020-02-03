@@ -1,22 +1,22 @@
 body{
-  background-color: #fbe7e7 !important;
+  background-color: #ebdbeb !important;
 }
 #barraprincipal{
-  background-color: #f97e7e;
+  background-color: 	#ce9cc5;
 }
 .titulos{
   font-size:25px; 
   margin-left:15px;
-  color: #fb4c4c;
+  color: #b577ad;
 }
 .subtitulos{
   font-size:20px; 
   margin-left:25px;
-  color: #fb4c4c;
+  color: #cb8bc3;
 }
 #footer{
   text-align: center;
-  background-color: #f97e7e;
+  background-color: 	#ce9cc5;
   width: 100%;
-  height: 40px;
+  height: 60px;
 }
