@@ -1,3 +1,11 @@
 #barraprincipal{
   background-color: #e3f2fd;
 }
+.titulos{
+  font-size:25px; 
+  margin-left:15px;
+}
+.subtitulos{
+  font-size:20px; 
+  margin-left:25px;
+}
