@@ -23,6 +23,7 @@ body{
 
 #about{
   margin: auto;
+  margin-top: 20px;
   border-style: solid;
   border-color:#6c4767;
   background-color: white;
