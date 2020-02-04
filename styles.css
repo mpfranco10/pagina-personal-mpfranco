@@ -33,10 +33,12 @@ body{
 #social{
   background-color: 	#ce9cc5;
   height: 50px;
-  display: block;
   margin-bottom: -48px;
   margin-left: -15px;
   margin-right: -15px;
+
+  
+  
 }
 
 #about{
@@ -58,6 +60,19 @@ td
 #letras{
   
   display: block;
+}
+.botones {
+margin: 6px;
+display: inline-block;
+
+}
+
+.wrapper {
+    display: table;
+    margin: auto;
+}
+#proyectos{
+  margin: 10px;
 }
 
 

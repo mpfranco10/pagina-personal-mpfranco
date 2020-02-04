@@ -9,14 +9,11 @@
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-         crossorigin="anonymous"></script>
+         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
-         integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
-         crossorigin="anonymous"></script>
+         integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"
-         integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
-         crossorigin="anonymous"></script>
+         integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
    </head>
    <body>
       <nav class="navbar navbar-expand-lg navbar-light" id="barraprincipal">
@@ -43,7 +40,7 @@
                   </div>
                </li>
                <li class="nav-item">
-                  <a class="nav-link robot" href="#pric">Experience</a>
+                  <a class="nav-link robot" href="#experience">Experience</a>
                </li>
             </ul>
          </div>
@@ -79,17 +76,52 @@
             </table>
             </br>
          </div>
-         <div id="social">
-            <a class="btn btn-social-icon btn-twitter">
-            <span class="fa fa-twitter"></span>
-            </a>
+         <div id="social" class="center-block">
+            <div class="wrapper">
+               <a href="https://www.linkedin.com/in/maría-paula-franco-guzmán-2606a8128" class="btn btn-info botones "
+                  role="button">LinkedIn</a>
+               <a href="https://github.com/mpfranco10" class="btn btn-info botones" role="button">GitHub</a>
+            </div>
          </div>
       </div>
-      <h1 id="projects" class="titulos robot">Projects</h1>
+      <hr>
+      <h1 id="projects" class="titulos robot">Most Relevant Projects</h1>
+      <div class="list-group" id="proyectos">
+         <a class="list-group-item list-group-item-action flex-column align-items-start active" disabled>
+            <div class="d-flex w-100 justify-content-between">
+               <h5 class="mb-1">Bogotá's Aqueduct Network Project</h5>
+               <small>2020</small>
+            </div>
+            <p class="mb-1">I am currently working with Bogotá's aqueduct company "ACUEDUCTO" to help them improve the aqueduct network in Bogota with the use of Machine Learning technologies.
+            </p>
+            <small>Electronics engineering thesis</small>
+         </a>
+         <a href="https://docdro.id/52Q5S3W" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+               <h5 class="mb-1">Implementation of Control Tactics in an Inverted Pendulum System</h5>
+               <small class="text-muted">2018</small>
+            </div>
+            <p class="mb-1">In this project there were 3 tactics of control used in the same system. In the attached paper is the process of design and realized tests for the control systems implemented.
+            </p>
+            <small class="text-muted">Donec id elit non mi porta.</small>
+         </a>
+         <a href="http://www.coffeebrain.org/wikic/index.php?title=(1720-IELE3222-ADSD)_Proyecto_Robot_2_Grupo_07" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+               <h5 class="mb-1">Line Follower Robot</h5>
+               <small class="text-muted">2017</small>
+            </div>
+            <p class="mb-1">Line follower robot implemented in a FPGA card, which could recognize balls of different colors,
+              and count how many balls of each color it could see.
+            </p>
+            <small class="text-muted">Hardware Architecture</small>
+         </a>
+      </div>
+      <hr>
       <h1 id="interest" class="titulos robot">Interests</h1>
       <h2 id="hobbies" class="subtitulos robot">Hobbies</h2>
       <h2 id="abilities" class="subtitulos robot">Abilities</h2>
       <h2 id="content" class="subtitulos robot">Content of interest</h2>
+      <hr>
       <h1 id="experience" class="titulos robot">Experience</h1>
       <div id="footer">
       </div>
