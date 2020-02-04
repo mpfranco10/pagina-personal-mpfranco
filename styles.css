@@ -18,6 +18,12 @@ body{
   color: #a26f9c;
 }
 
+.subsubtitulos{
+  font-size:20px; 
+  margin-left:30px;
+  color: #6d4568;
+}
+
 .descripcion{
     margin-left:15px;
   font-size:20px; 
@@ -73,6 +79,9 @@ display: inline-block;
 }
 #proyectos{
   margin: 10px;
+}
+#activo{
+  background-color: #e1e4f9;
 }
 
 
