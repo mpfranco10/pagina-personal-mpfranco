@@ -4,7 +4,7 @@ body{
 #barraprincipal{
   background-color: 	#ce9cc5;
 }
-#robot{
+.robot{
   font-family: 'Roboto', sans-serif !important;
 }
 .titulos{
@@ -35,9 +35,4 @@ body{
 
 }
 
-#foto{
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/de/Windows_live_square.JPG");
-  width: 100%;
-  height: 300px;
-  margin-top: -50px;
-}
+
