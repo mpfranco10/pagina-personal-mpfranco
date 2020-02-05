@@ -1,53 +1,46 @@
 body{
   background-color: #f7f0f7 !important;
-}
-#barraprincipal{
+  }
+  #barraprincipal{
   background-color: 	#ce9cc5;
-}
-.robot{
+  }
+  .robot{
   font-family: 'Roboto', sans-serif !important;
-}
-.titulos{
+  }
+  .titulos{
   font-size:25px; 
   margin-left:15px;
   color: #6c4767;
-}
-.subtitulos{
+  }
+  .subtitulos{
   font-size:20px; 
   margin-left:25px;
   color: #a26f9c;
-}
-
-.subsubtitulos{
+  }
+  .subsubtitulos{
   font-size:20px; 
   margin-left:30px;
   color: #6d4568;
-}
-
-.descripcion{
-    margin-left:15px;
+  }
+  .descripcion{
+  margin-left:15px;
   font-size:20px; 
   color: #a26f9c;
-}
-
-#footer{
+  }
+  #footer{
   text-align: center;
   background-color: 	#ce9cc5;
   width: 100%;
   height: 50px;
-}
-#social{
+  }
+  #social{
   background-color: 	#ce9cc5;
   height: 50px;
   margin-bottom: -48px;
   margin-left: -15px;
   margin-right: -15px;
-
-  
-  
-}
-
-#about{
+  }
+  #about{
   margin: auto;
   margin-top: 20px;
   border-style: solid;
@@ -55,36 +48,28 @@ body{
   border-width: thin;
   background-color: #f8e2f8;
   width: 50%;
-
-}
-
-td
-{
-    padding:0 15px;
-}
-
-#letras{
-  
+  }
+  td
+  {
+  padding:0 15px;
+  }
+  #letras{
   display: block;
-}
-.botones {
-margin: 6px;
-display: inline-block;
-
-}
-
-.wrapper {
-    display: table;
-    margin: auto;
-}
-#proyectos{
+  }
+  .botones {
+  margin: 6px;
+  display: inline-block;
+  }
+  .wrapper {
+  display: table;
+  margin: auto;
+  }
+  .pad{
   margin: 10px;
-}
-#activo{
+  }
+  #activo{
   background-color: #e1e4f9;
-}
-
-figure{
+  }
+  figure{
   margin: 30px;
-}
-
+  }
