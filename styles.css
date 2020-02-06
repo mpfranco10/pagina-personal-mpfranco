@@ -35,26 +35,23 @@ body{
   }
   #social{
   background-color: 	#ce9cc5;
-  height: 50px;
-  margin-bottom: -48px;
   margin-left: -15px;
   margin-right: -15px;
   }
   #about{
-  margin: auto;
+
   margin-top: 20px;
   border-style: solid;
   border-color:#6c4767;
   border-width: thin;
   background-color: #f8e2f8;
-  width: 50%;
   }
   td
   {
   padding:0 15px;
   }
   #letras{
-  display: block;
+    margin: 10px;
   }
   .botones {
   margin: 6px;
