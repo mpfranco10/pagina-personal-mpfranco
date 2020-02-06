@@ -39,7 +39,6 @@ body{
   margin-right: -15px;
   }
   #about{
-
   margin-top: 20px;
   border-style: solid;
   border-color:#6c4767;
@@ -51,7 +50,7 @@ body{
   padding:0 15px;
   }
   #letras{
-    margin: 10px;
+  margin: 10px;
   }
   .botones {
   margin: 6px;
@@ -61,7 +60,6 @@ body{
   display: table;
   margin: auto;
   }
-
   #activo{
   background-color: #e1e4f9;
   }
